@@ -1,0 +1,1 @@
+// Write a JavaScript program to check whether a number is divisible by 5 and 11or not

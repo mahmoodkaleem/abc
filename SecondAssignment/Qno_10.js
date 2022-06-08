@@ -1,0 +1,1 @@
+// Write a JavaScript program to display day name in the word

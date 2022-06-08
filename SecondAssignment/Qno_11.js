@@ -1,0 +1,1 @@
+// Write a JavaScript program to display Month name in the word
